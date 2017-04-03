@@ -1,0 +1,8 @@
+intrack：
+    intrack为一个个人网站项目，主要使用Java实现。
+
+使用框架：
+    spring springmvc mybatis
+
+项目计划
+    写好后重构，将基础服务提取出来，使用dubbo框架进行SOA化，这样SOA服务可以作为公共服务提供给其他应用程序使用。
